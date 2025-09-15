@@ -27,6 +27,7 @@ Let’s Get Designing!
 * (If needed, join with "Email or Username" or however you logged in earlier)
 * Go to Classes on the left menu if you aren’t directed to it right away
 * Select: Fidget Spinner Workshop, then Fidget Spinner, then Fidget Spinner Template
+* (Alternatively, download the example models here, then import them into Tinkercad). 
 * Design Requirements:
   * The central hole must have a diameter of 22mm (the default value) to accommodate the bearing
   * The height of the fidget spinner must be 7mm, which is the height of the bearing
